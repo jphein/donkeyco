@@ -1,0 +1,122 @@
+BODY, P, BLOCKQUOTE, UL, OL, LI, TD, FORM
+{font-family: "Times New Roman", Times, serif;
+font-style: normal;
+font-size: 12pt;
+color: #AE8D6C;
+}
+
+A:link     {
+	text-decoration: none;
+	color: #6F5944;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+A:visited  {text-decoration: none; color: #6F5944;}
+A:active   {text-decoration: none; color: #6F5944;}
+A:hover    {text-decoration: none; color: #AE8D6C;}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.TextdkGrey {
+	text-decoration: none;
+	color: #1F1F1F;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+
+}
+.TextltBrown {
+	text-decoration: none;
+	color: #AE8D6C;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+
+}
+.TextdkBrown {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #6F5944;
+	text-decoration: none;
+}
+.Header1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 32px;
+	color: #AE8D6C;
+	text-decoration: none;
+	font-weight: bold;
+}
+.Header2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #6F5944;
+	text-decoration: none;
+}
+.Header3 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #AE8D6C;
+}
+.Header4 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #AE8D6C;
+	text-decoration: none;
+}
+.inputSubmit
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #AE8D6C;
+	border: 2px solid #6F5944;
+	color: #1F1F1F;
+}
+.tableblkOutBox
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #000000;
+	border: 2px solid #6F5944;
+	color: #AE8D6C;
+	padding: 10px;
+}
+.padding
+{
+	padding: 2px 2px 2px 4px;
+}
+.tableblkBox
+{
+	background-color: #000000;
+}
+.tablegryBox
+{
+	background-color: #1F1F1F;
+}
+.tablebrnBox
+{
+	background-color: #6F5944;
+}
+.tableredBox
+{
+	background-color: #FF0000;
+}
+.linkalike {
+	text-decoration: none;
+	color: #6F5944;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+.overline {
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #6F5944;
+	width: 100%;
+}
