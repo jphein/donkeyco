@@ -1,0 +1,68 @@
+a:hover {
+	color: #82C34E;
+}
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #0080C4;
+}
+.greenLinks {
+	color: #82C34E;
+	font-weight: bold;
+}
+.greenLinks:link {
+	color: #82C34E;
+	font-weight: bold;
+}
+.greenLinks:hover {
+	color: #FFFFFF;
+}
+
+.blueLinks {
+	color: #0080C4;
+	font-weight: bold;
+}
+.blueLinks:link {
+	color: #0080C4;
+	font-weight: bold;
+}
+.blueLinks:hover { 
+	color: #82C34E;
+}
+.headerPlain {
+	font-size: 18px;
+	font-weight: normal;
+	color: #000033;
+}
+.headerOne {
+	width: 100%;
+	border-bottom-width: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-color: #000033;
+	font-size: 18px;
+	font-weight: normal;
+	padding: 2px;
+	color: #000033;
+}
+.mainText {
+	font-size: 12pt;
+}
+ul {
+	padding: 0px;
+	margin: 0px 0px 0px 1em;
+	list-style-type: none;
+}
+li {
+	background-image: url(../images/mainbevel_left.gif);
+	background-repeat: no-repeat;
+	background-position: 0 .4em;
+	padding-left: .8em;
+}
+.headerTwo {
+	font-size: 14pt;
+	font-style: italic;
+	font-weight: bold;
+}
